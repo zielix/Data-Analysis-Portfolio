@@ -111,3 +111,16 @@ ORDER BY 1 DESC
 LIMIT 5;
 
 -----------------------------------------------------------------------------
+
+-- Awards Factory --
+----- The sum of the rewards received by players born in the given city -----
+SELECT p.birthcity,
+    COUNT(a.playerid) AS total_awards
+FROM awardsplayers a
+JOIN people p
+    ON a.playerid = p.playerid
+GROUP BY 1
+ORDER BY 2 DESC
+LIMIT 5;
+
+-----------------------------------------------------------------------------
