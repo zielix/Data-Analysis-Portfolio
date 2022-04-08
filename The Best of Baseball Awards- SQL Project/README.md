@@ -1,5 +1,5 @@
 # Data-Analysis-Portfolio
-The repository contains my data analysis projects.
+The repository contains my data analysis project.
 
 Limited Use License
 
