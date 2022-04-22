@@ -10,3 +10,4 @@ the strongest hurricanes as rated by their wind speed. Each one of these functio
   <li>string manipulation</li>
   <li>return statements</li>
 </ul>
+<p>Project is presented as a Jupyter Notebook file to easy read every function and show results. </p>
