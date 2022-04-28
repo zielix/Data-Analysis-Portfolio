@@ -3,4 +3,3 @@
 <a href="https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy">link to full dataset </a><br>
 I did not use the full dataset because it is too large (over 24m records, around 4GB). So I filtered only the data from 2021, then removed a few unnecessary columns and used the data prepared in this way to create the dashboard.
 There is a PDF file (dashboard preview) and a Power BI file (.pbix) in the repository, unfortunately I was unable to publish it on the web and provide a link to it, because it requires Power BI Pro (paid license).
-<iframe title="Liquor sales" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=89eb4f2c-bd96-40e4-bed1-43c170a2f11e&autoAuth=true&ctid=e22f6225-6c4d-4a76-9257-a07833ddc683&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtZXVyb3BlLWUtcHJpbWFyeS1yZWRpcmVjdC5hbmFseXNpcy53aW5kb3dzLm5ldC8ifQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>  
